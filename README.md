@@ -1,6 +1,5 @@
 # 🧳✈️ Travel Itinerary Generator using CrewAI 🌍🗺️
-
-![Travel Itinerary](https://github.com/user-attachments/assets/6e629d60-c342-4dc0-b614-3754ad05e41e/r-image-1)
+![Travel Itinerary](https://github.com/user-attachments/assets/3899f44d-c0a6-4238-8fa5-a0908c9404f3)
 
 ## 🎯 Project Overview
 Planning a vacation can be stressful 😵‍💫 with so many options to choose from. Our **Travel Itinerary Generator** 🎉, powered by **CrewAI**’s multi-agent system 🤖, makes it easy! This tool creates personalized, day-wise itineraries for travelers based on their preferences and destination. 🌟
