@@ -38,15 +38,18 @@ Planning a vacation can be stressful 😵‍💫 with so many options to choose 
 ## 🖼️ Screenshots
 
 ### User Interface 🌟
-![Interface Screenshot 1](https://github.com/user-attachments/assets/3a9026e8-d108-475b-bf83-38ae70511171/r-image-1)
+![Interface Screenshot 1](https://github.com/user-attachments/assets/1da617b8-e386-4d0f-a320-83dfb6f2fcb0)
 
-![Demonstration for a trip to Kolkata](https://github.com/user-attachments/assets/3752d14c-70a4-4824-ad0d-c6083526a682/r-image-2)
+![Demonstration for a trip to Kolkata](https://github.com/user-attachments/assets/9fc0550c-9eab-433d-8762-ffba17f9dd29)
 
-![Result 1](https://github.com/user-attachments/assets/ba53a6ec-d7ef-4088-b488-6998f375ed81/r-image-3)
+![Result 1](https://github.com/user-attachments/assets/034143f1-7e49-46fe-922a-742f77eb696f)
 
-![Result 2](https://github.com/user-attachments/assets/ca23504c-de4a-4ee6-948a-7eb3adbb35f8/r-image-4)
 
-![Result 3](https://github.com/user-attachments/assets/6a685374-4739-4fee-b927-8b127e65a555/r-image-5)
+![Result 2](https://github.com/user-attachments/assets/3ce44bf3-9930-4918-b98d-b6081a33b2fc)
+
+
+![Result 3](https://github.com/user-attachments/assets/6c2800fb-c32b-482b-8417-f170e7da9d73)
+
 
 ## 🤝 Contributing
 Contributions are welcome! 🎉 Feel free to open issues or submit pull requests 🚀.
