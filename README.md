@@ -1,7 +1,6 @@
 # 🧳✈️ Travel Itinerary Generator using CrewAI 🌍🗺️
 
-![Travel Itinerary]([images](https://github.com/user-attachments/assets/6e629d60-c342-4dc0-b614-3754ad05e41e)
-r-image-1)  
+![Travel Itinerary](https://github.com/user-attachments/assets/6e629d60-c342-4dc0-b614-3754ad05e41e/r-image-1)
 
 ## 🎯 Project Overview
 Planning a vacation can be stressful 😵‍💫 with so many options to choose from. Our **Travel Itinerary Generator** 🎉, powered by **CrewAI**’s multi-agent system 🤖, makes it easy! This tool creates personalized, day-wise itineraries for travelers based on their preferences and destination. 🌟
@@ -38,18 +37,18 @@ Planning a vacation can be stressful 😵‍💫 with so many options to choose 
     ```
 
 ## 🖼️ Screenshots
+
 ### User Interface 🌟
-![Interface Screenshot 1])(![image](https://github.com/user-attachments/assets/3a9026e8-d108-475b-bf83-38ae70511171)
-)
-r-image-1)
-![Demonstration for a trip to Kolkata](![image](https://github.com/user-attachments/assets/3752d14c-70a4-4824-ad0d-c6083526a682)
-)
-![Result](![image](https://github.com/user-attachments/assets/ba53a6ec-d7ef-4088-b488-6998f375ed81)
-)
-![Result](![image](https://github.com/user-attachments/assets/ca23504c-de4a-4ee6-948a-7eb3adbb35f8)
-)
-![Result](![image](https://github.com/user-attachments/assets/6a685374-4739-4fee-b927-8b127e65a555)
-)
+![Interface Screenshot 1](https://github.com/user-attachments/assets/3a9026e8-d108-475b-bf83-38ae70511171/r-image-1)
+
+![Demonstration for a trip to Kolkata](https://github.com/user-attachments/assets/3752d14c-70a4-4824-ad0d-c6083526a682/r-image-2)
+
+![Result 1](https://github.com/user-attachments/assets/ba53a6ec-d7ef-4088-b488-6998f375ed81/r-image-3)
+
+![Result 2](https://github.com/user-attachments/assets/ca23504c-de4a-4ee6-948a-7eb3adbb35f8/r-image-4)
+
+![Result 3](https://github.com/user-attachments/assets/6a685374-4739-4fee-b927-8b127e65a555/r-image-5)
+
 ## 🤝 Contributing
 Contributions are welcome! 🎉 Feel free to open issues or submit pull requests 🚀.
 
